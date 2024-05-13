@@ -264,7 +264,7 @@ class _RecipeScreenState extends State<RecipeScreen> {
                           ),
                           const SizedBox(width: 10),
                           const Text(
-                            "Ramen Noodles",
+                            "Tempura",
                             style: TextStyle(
                               fontSize: 16,
                               fontWeight: FontWeight.bold,
@@ -299,7 +299,7 @@ class _RecipeScreenState extends State<RecipeScreen> {
                           ),
                           const SizedBox(width: 10),
                           const Text(
-                            "Ramen Noodles",
+                            " Tempura",
                             style: TextStyle(
                               fontSize: 16,
                               fontWeight: FontWeight.bold,
@@ -334,7 +334,7 @@ class _RecipeScreenState extends State<RecipeScreen> {
                           ),
                           const SizedBox(width: 10),
                           const Text(
-                            "Ramen Noodles",
+                            "Tempura",
                             style: TextStyle(
                               fontSize: 16,
                               fontWeight: FontWeight.bold,
