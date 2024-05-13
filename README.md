@@ -1,6 +1,6 @@
 # food_example
 
-Flutter project.
+Flutter project for UTS
 
 ## Getting Started
 
